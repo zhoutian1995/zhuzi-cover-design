@@ -1,0 +1,4 @@
+interface:
+  display_name: "电影感短视频封面"
+  short_description: "用本人参考图做科技拼贴封面，保持人物比例并同步三种画幅"
+  default_prompt: "使用 $zhuzi-cover-design 为这份选题或口播稿制作我的短视频封面，使用我提供的本人参考图与指定署名，并按内容选择构图。"
